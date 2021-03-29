@@ -1,2 +1,2 @@
-# spring-example
+# spring-playground
 Playground to try spring features
